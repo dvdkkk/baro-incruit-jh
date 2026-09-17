@@ -1,0 +1,8 @@
+{
+  "name": "baro-incruit(진정헌)",
+  "description": "인크루트 모의평가와 전문가 60분 1:1 코칭을 한 번에, 패스트트랙",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
